@@ -16,7 +16,7 @@ This project was started cause of school. But since me and my friends found the 
 ## Project Links
 [The project board](https://github.com/users/KennethSpeecke/projects/4)
 
-##CI Status
+## CI Status
 Asp.Net Core Backend Api Status
 [![.NET](https://github.com/KennethSpeecke/DndRngTool/actions/workflows/dotnet.yml/badge.svg)](https://github.com/KennethSpeecke/DndRngTool/actions/workflows/dotnet.yml)
 
