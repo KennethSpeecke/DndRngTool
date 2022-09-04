@@ -3,11 +3,12 @@
 ## What is this?
 RNG D&D Tool helps users keep track of their D&D sessions. Anyone who plays d&d knows that a lot of documents, notes, photos, cards, etc... have to be kept up to date. In practice, it often happens that these documents are damaged and/or lost.
 But especially the Game Master can speak about this.
-RNG obsolete all these concerns by incorporating all these processes into an application.
-Once everyone is logged in, the room has entered the app and is ready at the game table, the adventure can begin.
+RNG fixes all these concerns by incorporating all these processes into an application.
+Once everyone is logged in, has entered the game session on the app and is ready at the game table then the adventure begins.
 
 ## Technologies used
-- Full stack Asp.net core with react.js
+- Asp.NET Core BackEnd Api
+- ReactJs Front-End Application
 
 ## Resource List
 - Character sheets
