@@ -16,6 +16,13 @@ This project was started cause of school. But since me and my friends found the 
 ## Project Links
 [The project board](https://github.com/users/KennethSpeecke/projects/4)
 
+##CI Status
+Asp.Net Core Backend Api Status
+[![.NET](https://github.com/KennethSpeecke/DndRngTool/actions/workflows/dotnet.yml/badge.svg)](https://github.com/KennethSpeecke/DndRngTool/actions/workflows/dotnet.yml)
+
+ReactJs Application Status
+[![Node.js CI](https://github.com/KennethSpeecke/DndRngTool/actions/workflows/node.js.yml/badge.svg)](https://github.com/KennethSpeecke/DndRngTool/actions/workflows/node.js.yml)
+
 ## Resource List
 - Character sheets
 - https://dnd.wizards.com/charactersheets
