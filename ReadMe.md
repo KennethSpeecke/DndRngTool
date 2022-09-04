@@ -6,6 +6,9 @@ But especially the Game Master can speak about this.
 RNG fixes all these concerns by incorporating all these processes into an application.
 Once everyone is logged in, has entered the game session on the app and is ready at the game table then the adventure begins.
 
+## What is this?
+This project was started cause of school. But since me and my friends found the prototype kinda usefull i decided to create a decent version of it.
+
 ## Technologies used
 - Asp.NET Core BackEnd Api
 - ReactJs Front-End Application
