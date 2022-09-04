@@ -13,6 +13,9 @@ This project was started cause of school. But since me and my friends found the 
 - Asp.NET Core BackEnd Api
 - ReactJs Front-End Application
 
+## Project Links
+[The project board](https://github.com/users/KennethSpeecke/projects/4)
+
 ## Resource List
 - Character sheets
 - https://dnd.wizards.com/charactersheets
