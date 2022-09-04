@@ -14,7 +14,7 @@ This project was started cause of school. But since me and my friends found the 
 - ReactJs Front-End Application
 
 ## Project Links
-[The project board](https://github.com/users/KennethSpeecke/projects/4)
+[The project board](https://github.com/users/KennethSpeecke/projects/4){:target="_blank"}
 
 ## Resource List
 - Character sheets
